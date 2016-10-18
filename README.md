@@ -1,2 +1,2 @@
 # fibaro-sarah
-Plugin for SARAH Voice automation software to use FIBARO Home center (V2 and lite running V4) 
+Plugin for SARAH Voice automation software for the FIBARO Home center (V2 and lite running V4)
